@@ -13,7 +13,7 @@
 ## 🚀 About Me
 
 🎓 B.Tech CSE Student at Amity University, Mumbai (2024–2028)  
-📚 Currently in **4th Semester** | **CGPA: 9.41**  
+📚 Currently in **5th Semester** 
 💡 Passionate about **Machine Learning, Web Development, NLP, and Problem Solving**  
 🌱 Always learning, building, and improving  
 
